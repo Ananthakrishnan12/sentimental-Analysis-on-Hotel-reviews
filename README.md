@@ -13,7 +13,7 @@ Type pip install -r requirnments.txt
 
 4.Data Transformation: a) Converting Text into Numerical using Tokenization
 
-5.Model Training: a) Logistic Regression b) Random Forest Classifier
+5.Model Training: a) using LSTM Algorithm 
 
 6.Evaluation Metrics: a)ConfusionMatrix,precision score,recall score,accuracy score
 
